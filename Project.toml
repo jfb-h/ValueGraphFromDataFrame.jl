@@ -9,6 +9,7 @@ LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
 SimpleValueGraphs = "b43c691f-cac2-5415-8122-396fe16a49fc"
 
 [compat]
+SimpleValueGraphs = "0.3"
 LightGraphs = "1.3"
 DataFrames = "1.0"
 julia = "1"
